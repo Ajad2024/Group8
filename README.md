@@ -33,6 +33,7 @@ print("Number of Total Door",len(things))
 
 Result- Number of Total Door Type 33
 
-Our Script find out the number of Doors and Doors Type Which 
+
+# # Our Script find out the number of Doors and Doors Type Which 
 
 were named as IfcDoor and IfcDoorType only.
