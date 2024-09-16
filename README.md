@@ -18,8 +18,8 @@ import ifcopenshell
 from bonsai.bim.ifc import IfcStore
 file = IfcStore.get_file()
 things = file.by_type('IfcDoor')
-#print("Number of Total Door",len(things)) 
+print("Number of Total Door",len(things)) 
 
 #Result- Number of Total Door Type 33
 
-# Our Script find out the number of Doors and Doors Type Which were named as IfcDoor and IfcDoorType only.
+#Our Script find out the number of Doors and Doors Type Which were named as IfcDoor and IfcDoorType only.
