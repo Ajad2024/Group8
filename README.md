@@ -1,4 +1,4 @@
-## BIManalyst Group 08 
+## BIManalyst Group8
 
 ## Focus Area Architecture-Doors
 
