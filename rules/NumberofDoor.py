@@ -6,4 +6,4 @@ file = IfcStore.get_file()
 
 things = file.by_type('IfcDoor')
 
-print("Number of Total Door",len(things))
+print("Number of Total Doors",len(things))
