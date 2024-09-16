@@ -24,3 +24,5 @@
 ### Result- Number of Total Door Types 33
 
 ## Our Script find out the number of Doors and Doors Type Which  were named as IfcDoor and IfcDoorType only.
+
+## Our Script find out the number of Doors and Doors Type Which  were named as IfcDoor and IfcDoorType only.
