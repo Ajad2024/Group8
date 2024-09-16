@@ -11,16 +11,23 @@ import ifcopenshell
 from bonsai.bim.ifc import IfcStore
 
 file = IfcStore.get_file()
+
 things = file.by_type('IfcDoor')
+
 print("Number of Total Door",len(things))
 
 Result- Number of Total Door 664
 
 Script-2 -Number of total Doors Type
+
 import ifcopenshell
+
 from bonsai.bim.ifc import IfcStore
+
 file = IfcStore.get_file()
+
 things = file.by_type('IfcDoor')
+
 print("Number of Total Door",len(things)) 
 
 #Result- Number of Total Door Type 33
