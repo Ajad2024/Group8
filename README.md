@@ -5,7 +5,7 @@
 4. Inside the report named CES_BLD_24_06_ARC-There was no clear Number about Total door and also not mention the Door types.
    But we tried to figure out the number of these two things and we run the below script for find out the IfcDoor and IfcDoorType.
 5. 
-# Script-1 -Number of total Doors
+# # Script-1 -Number of total Doors
 
 import ifcopenshell
 
@@ -19,7 +19,7 @@ print("Number of Total Door",len(things))
 
 Result- Number of Total Door 664
 
-# Script-2 -Number of total Doors Type
+# # Script-2 -Number of total Doors Type
 
 import ifcopenshell
 
