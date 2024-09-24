@@ -12,6 +12,7 @@ model = ifcopenshell.open("D:/BIM/CES_BLD_24_06_ARC.ifc")
 windowResult = windowRule.checkRule(model)
 doorResult = doorRule.checkRule(model)
 doorTypeResult= doorType.checkRule(model)
+numberofDoorResult = numberofDoor.checkRule(model)
 
 print("Window result:", windowResult)
 print("Door result:", doorResult)
