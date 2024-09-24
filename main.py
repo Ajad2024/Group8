@@ -5,7 +5,7 @@ from .rules import doorRule
 
 
 
-model = ifcopenshell.open("D:/Autumn/41934/L2/CES_BLD_24_06_ARC.ifc")
+model = ifcopenshell.open("D:/BIM/CES_BLD_24_06_ARC.ifc")
 
 windowResult = windowRule.checkRule(model)
 doorResult = doorRule.checkRule(model)
