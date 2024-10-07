@@ -1,4 +1,3 @@
-## BIManalyst Group8
 ## Focus Area Architecture-Doors
 ## Checked- Number Of Doors on the whole project and also the How many types of doors are present on the Building.
 

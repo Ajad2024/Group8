@@ -6,3 +6,4 @@ def checkRule(model):
     result  =f"Number of Total Door: {len(things)}"
 
     return result
+    
