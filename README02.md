@@ -27,10 +27,4 @@ Space Utilization Data, Employee or User Data and Inventory Data.
 DesignReviewing, Build and operate.
 
 <<<<<<< HEAD
-
-=======
-## Our Script find out the number of Doors and Doors Type Which  were named as IfcDoor and IfcDoorType only.
-
-## Our Script find out the number of Doors and Doors Type Which  were named as IfcDoor and IfcDoorType only.
-
 ![diagram](https://github.com/user-attachments/assets/fee9b707-b160-4ce1-8003-27b01b9902d4)
