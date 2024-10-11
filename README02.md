@@ -26,5 +26,5 @@ Space Utilization Data, Employee or User Data and Inventory Data.
 ## What other use cases are waiting for ours to be completed?
 DesignReviewing, Build and operate.
 
-<<<<<<< HEAD
+
 ![diagram](https://github.com/user-attachments/assets/fee9b707-b160-4ce1-8003-27b01b9902d4)
