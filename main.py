@@ -17,4 +17,8 @@ numberofDoorResult = numberofDoor.checkRule(model)
 print("Window result:", windowResult)
 print("Door result:", doorResult)
 print("Door Type result:", doorTypeResult)
+<<<<<<< HEAD
 print("Door result:", numberofDoorResult)
+=======
+print("Door result:", numberofDoorResult)
+>>>>>>> parent of f0630b2 (Update main.py)
