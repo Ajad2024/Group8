@@ -7,7 +7,7 @@ from rules import doorRule
 from rules import doorType
 from rules import numberofDoor
 
-model = ifcopenshell.open("D:/BIM/CES_BLD_24_06_ARC.ifc")
+model = ifcopenshell.open("D:\BIM\CES_BLD_24_10_ARC.ifc")
 
 windowResult = windowRule.checkRule(model)
 doorResult = doorRule.checkRule(model)
