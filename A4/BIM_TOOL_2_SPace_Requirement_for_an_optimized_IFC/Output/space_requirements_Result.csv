@@ -1,0 +1,734 @@
+Space Name,Space Type,Level,Gross Area (m²),Status,Comment
+AUDITORIUM 1,,Level 1,0,Fail,"Required fixed area for AUDITORIUM is 100 m², but the available area is 0 m²."
+AUDITORIUM 2,,Level 1,0,Fail,"Required fixed area for AUDITORIUM is 100 m², but the available area is 0 m²."
+MEETING ROOM,,Level 1,0,Fail,Invalid format for number of people.
+MEETING ROOM,,Level 1,0,Fail,Invalid format for number of people.
+SEMINARROOM,,Level 1,0,Fail,Required area not met
+RAMP 15%,,Level 0,0,Fail,Required area not met
+STAIRCASE,,Level 0,35.04000000000015,Pass,Meets fixed area requirement (available: 35.04000000000015 m²)
+STAIRCASE,,Level 0,35.040000000000134,Pass,Meets fixed area requirement (available: 35.040000000000134 m²)
+MULTIPURPOSE ROOM,,Level 0,0,Fail,Required area not met
+CORRIDOR,,Level 0,0,Fail,Required area not met
+ELEVATOR,,Level 0,6.0006690492443235,Fail,Required area not met
+TECHNIC,,Level 0,13.37008749999986,Fail,Required area not met
+ELEVATOR,,Level 0,5.980000000000006,Fail,Required area not met
+TOILET,,Level 0,15.501300000000356,Fail,Required area not met
+WASTE ROOM,,Level 0,0,Fail,Required area not met
+STAIRCASE,,Level 1,35.04000000000014,Pass,Meets fixed area requirement (available: 35.04000000000014 m²)
+TECHNIC,,Level 1,11.481400000000015,Fail,Required area not met
+ELEVATOR,,Level 1,5.980000000000066,Fail,Required area not met
+ELEVATOR,,Level 1,4.600000000000046,Fail,Required area not met
+TECHNIC,,Level 1,11.526749098203766,Fail,Required area not met
+SEMINARROOM,,Level 1,0,Fail,Required area not met
+SEMINARROOM,,Level 1,0,Fail,Required area not met
+SEMINARROOM,,Level 1,0,Fail,Required area not met
+SEMINARROOM,,Level 1,0,Fail,Required area not met
+ELEVATOR,,Level -1,0,Fail,Required area not met
+TECHNIC,,Level -1,11.106699999999973,Fail,Required area not met
+ELEVATOR,,Level -1,0,Fail,Required area not met
+STAIRCASE,,Level -1,35.039999999999836,Pass,Meets fixed area requirement (available: 35.039999999999836 m²)
+ELEVATOR,,Level -1,5.980000000000035,Fail,Required area not met
+STAIRCASE,,Level -1,35.04000000000018,Pass,Meets fixed area requirement (available: 35.04000000000018 m²)
+TECHNIC,,Level -1,12.511500000000002,Fail,Required area not met
+SHARED OFFICE 38P,,Level 6,0,Fail,"Required area for 38P in OFFICE is 304.0 m², but the available area is 0 m²."
+CORRIDOR,,Level 6,0,Fail,Required area not met
+STAIRCASE,,Level 6,35.04000000000026,Pass,Meets fixed area requirement (available: 35.04000000000026 m²)
+TECHNIC,,Level 6,12.199274999999792,Fail,Required area not met
+ELEVATOR,,Level 6,5.9799999999999285,Fail,Required area not met
+ELEVATOR,,Level 6,4.600000000000001,Fail,Required area not met
+WARDROBE,,Level 6,6.471531249999777,Fail,Required area not met
+PUBLIC AREA,,Level 6,0,Fail,Required area not met
+SHARED OFFICE 20P,,Level 6,0,Fail,"Required area for 20P in OFFICE is 160.0 m², but the available area is 0 m²."
+CORRIDOR,,Level 6,0,Fail,Required area not met
+SHARED OFFICE 32P,,Level 6,0,Fail,"Required area for 32P in OFFICE is 256.0 m², but the available area is 0 m²."
+WARDROBE,,Level 6,6.471531249999876,Fail,Required area not met
+MEETING ROOM 25P,,Level 6,0,Fail,"Required area for 25P in MEETING ROOM is 62.5 m², but the available area is 0 m²."
+TECHNIC,,Level 6,12.199274999999723,Fail,Required area not met
+KITCHEN,,Level 6,10.425000000000024,Fail,Required area not met
+SHARED OFFICE 15P,,Level 6,0,Fail,"Required area for 15P in OFFICE is 120.0 m², but the available area is 0 m²."
+TECHNIC DRY,,Level 6,0,Fail,Required area not met
+TECHNIC DRY,,Level 6,0,Fail,Required area not met
+SHARED OFFICE 38P,,Level 7,0,Fail,"Required area for 38P in OFFICE is 304.0 m², but the available area is 0 m²."
+CORRIDOR,,Level 7,0,Fail,Required area not met
+STAIRCASE,,Level 7,35.04000000000037,Pass,Meets fixed area requirement (available: 35.04000000000037 m²)
+TECHNIC,,Level 7,12.187349999999919,Fail,Required area not met
+ELEVATOR,,Level 7,5.979999999999999,Fail,Required area not met
+ELEVATOR,,Level 7,4.600000000000037,Fail,Required area not met
+WARDROBE,,Level 7,6.471531249999945,Fail,Required area not met
+PUBLIC AREA,,Level 7,0,Fail,Required area not met
+SHARED OFFICE 20P,,Level 7,0,Fail,"Required area for 20P in OFFICE is 160.0 m², but the available area is 0 m²."
+CORRIDOR,,Level 7,0,Fail,Required area not met
+SHARED OFFICE 38P,,Level 7,0,Fail,"Required area for 38P in OFFICE is 304.0 m², but the available area is 0 m²."
+STAIRCASE,,Level 7,35.03999999999952,Pass,Meets fixed area requirement (available: 35.03999999999952 m²)
+WARDROBE,,Level 7,6.471531249999972,Fail,Required area not met
+MEETING ROOM 10P,,Level 7,0,Fail,"Required area for 10P in MEETING ROOM is 25.0 m², but the available area is 0 m²."
+TECHNIC,,Level 7,12.163499999999747,Fail,Required area not met
+MEETING ROOM 15P,,Level 7,0,Fail,"Required area for 15P in MEETING ROOM is 37.5 m², but the available area is 0 m²."
+MEETING ROOM 6P,,Level 7,0,Fail,"Required area for 6P in MEETING ROOM is 15.0 m², but the available area is 0 m²."
+FACILITY & STORRAGE,,Level 7,0,Fail,Required area not met
+SHARED OFFICE 18P,,Level 8,0,Fail,"Required area for 18P in OFFICE is 144.0 m², but the available area is 0 m²."
+CORRIDOR,,Level 8,0,Fail,Required area not met
+STAIRCASE,,Level 8,0,Fail,"Required fixed area for STAIRCASE is 34.0 m², but the available area is 0 m²."
+TECHNIC,,Level 8,12.18734999999965,Fail,Required area not met
+ELEVATOR,,Level 8,6.238750000000107,Fail,Required area not met
+ELEVATOR,,Level 8,0,Fail,Required area not met
+WARDROBE,,Level 8,6.495656249999712,Fail,Required area not met
+PUBLIC AREA,,Level 8,0,Fail,Required area not met
+SHARED OFFICE 20P,,Level 8,0,Fail,"Required area for 20P in OFFICE is 160.0 m², but the available area is 0 m²."
+CORRIDOR,,Level 8,0,Fail,Required area not met
+SHARED OFFICE 38P,,Level 8,0,Fail,"Required area for 38P in OFFICE is 304.0 m², but the available area is 0 m²."
+STAIRCASE,,Level 8,35.04000000000003,Pass,Meets fixed area requirement (available: 35.04000000000003 m²)
+WARDROBE,,Level 8,6.498356250000006,Fail,Required area not met
+MEETING ROOM 10P,,Level 8,0,Fail,"Required area for 10P in MEETING ROOM is 25.0 m², but the available area is 0 m²."
+TOILET,,Level 8,0,Fail,Required area not met
+TOILET,,Level 8,0,Fail,Required area not met
+TECHNIC,,Level 8,12.23844999999981,Fail,Required area not met
+KITCHEN,,Level 8,0,Fail,Required area not met
+MEETING ROOM 6P,,Level 8,0,Fail,"Required area for 6P in MEETING ROOM is 15.0 m², but the available area is 0 m²."
+MEETING ROOM 15P,,Level 8,0,Fail,"Required area for 15P in MEETING ROOM is 37.5 m², but the available area is 0 m²."
+FACILITY & STORRAGE,,Level 8,0,Fail,Required area not met
+PUBLIC AREA,,Level 9,0,Fail,Required area not met
+CORRIDOR,,Level 9,0,Fail,Required area not met
+STAIRCASE,,Level 9,35.0400000000003,Pass,Meets fixed area requirement (available: 35.0400000000003 m²)
+TECHNIC,,Level 9,12.163499999999758,Fail,Required area not met
+ELEVATOR,,Level 9,5.979999999999978,Fail,Required area not met
+ELEVATOR,,Level 9,4.600000000000037,Fail,Required area not met
+WARDROBE,,Level 9,6.471531249999787,Fail,Required area not met
+SHARED OFFICE 16P,,Level 9,0,Fail,"Required area for 16P in OFFICE is 128.0 m², but the available area is 0 m²."
+SHARED OFFICE 20P,,Level 9,0,Fail,"Required area for 20P in OFFICE is 160.0 m², but the available area is 0 m²."
+CORRIDOR,,Level 9,0,Fail,Required area not met
+SHARED OFFICE 38P,,Level 9,0,Fail,"Required area for 38P in OFFICE is 304.0 m², but the available area is 0 m²."
+STAIRCASE,,Level 9,35.04000000000078,Pass,Meets fixed area requirement (available: 35.04000000000078 m²)
+WARDROBE,,Level 9,6.471531249999925,Fail,Required area not met
+MEETING ROOM 10P,,Level 9,0,Fail,"Required area for 10P in MEETING ROOM is 25.0 m², but the available area is 0 m²."
+TECHNIC,,Level 9,12.187349999999684,Fail,Required area not met
+MEETING ROOM 6P,,Level 9,0,Fail,"Required area for 6P in MEETING ROOM is 15.0 m², but the available area is 0 m²."
+MEETING ROOM 15P,,Level 9,0,Fail,"Required area for 15P in MEETING ROOM is 37.5 m², but the available area is 0 m²."
+FACILITY & STORRAGE,,Level 9,0,Fail,Required area not met
+KITCHEN,,Level 9,10.500000000000085,Fail,Required area not met
+TECHNIC DRY,,Level 7,0,Fail,Required area not met
+TECHNIC DRY,,Level 7,0,Fail,Required area not met
+KITCHEN,,Level 7,0,Fail,Required area not met
+TECHNIC DRY,,Level 8,0,Fail,Required area not met
+TECHNIC DRY,,Level 9,0,Fail,Required area not met
+TECHNIC DRY,,Level 9,0,Fail,Required area not met
+STAIRCASE,,Level 10,35.04000000000013,Pass,Meets fixed area requirement (available: 35.04000000000013 m²)
+TECHNIC,,Level 10,13.183499999999912,Fail,Required area not met
+ELEVATOR,,Level 10,5.98000000000002,Fail,Required area not met
+ELEVATOR,,Level 10,4.60000000000003,Fail,Required area not met
+WARDROBE,,Level 10,6.5116562499998,Fail,Required area not met
+STAIRCASE,,Level 10,35.04000000000026,Pass,Meets fixed area requirement (available: 35.04000000000026 m²)
+WARDROBE,,Level 10,6.0448874999999935,Fail,Required area not met
+ELEVATOR,,Level 10,4.600000000000204,Fail,Required area not met
+ELEVATOR,,Level 10,5.979999999999853,Fail,Required area not met
+TECHNIC,,Level 10,11.661999999999894,Fail,Required area not met
+SHARED OFFICE 38P,,Level 10,0,Fail,"Required area for 38P in OFFICE is 304.0 m², but the available area is 0 m²."
+PUBLIC AREA,,Level 10,0,Fail,Required area not met
+SHARED OFFICE 20P,,Level 10,0,Fail,"Required area for 20P in OFFICE is 160.0 m², but the available area is 0 m²."
+SHARED OFFICE 32P,,Level 10,0,Fail,"Required area for 32P in OFFICE is 256.0 m², but the available area is 0 m²."
+KITCHEN,,Level 10,0,Fail,Required area not met
+SHARED OFFICE 15P,,Level 10,0,Fail,"Required area for 15P in OFFICE is 120.0 m², but the available area is 0 m²."
+CORRIDOR,,Level 10,0,Fail,Required area not met
+CORRIDOR,,Level 10,0,Fail,Required area not met
+STAIRCASE,,Level 11,35.04000000000024,Pass,Meets fixed area requirement (available: 35.04000000000024 m²)
+TECHNIC,,Level 11,13.142816521995618,Fail,Required area not met
+ELEVATOR,,Level 11,5.97999999999999,Fail,Required area not met
+WARDROBE,,Level 11,6.485531249999903,Fail,Required area not met
+STAIRCASE,,Level 11,35.04000000000024,Pass,Meets fixed area requirement (available: 35.04000000000024 m²)
+WARDROBE,,Level 11,6.485531249999962,Fail,Required area not met
+ELEVATOR,,Level 11,11.040000000000015,Fail,Required area not met
+TECHNIC,,Level 11,12.53174999999977,Fail,Required area not met
+SHARED OFFICE 20P,,Level 11,0,Fail,"Required area for 20P in OFFICE is 160.0 m², but the available area is 0 m²."
+SHARED OFFICE 38P,,Level 11,0,Fail,"Required area for 38P in OFFICE is 304.0 m², but the available area is 0 m²."
+SHARED OFFICE 15P,,Level 11,0,Fail,"Required area for 15P in OFFICE is 120.0 m², but the available area is 0 m²."
+KITCHEN,,Level 11,10.424999999999544,Fail,Required area not met
+MEETING ROOM 10P,,Level 10,0,Fail,"Required area for 10P in MEETING ROOM is 25.0 m², but the available area is 0 m²."
+TOILET,,Level 10,0,Fail,Required area not met
+MEETING ROOM 6P,,Level 10,0,Fail,"Required area for 6P in MEETING ROOM is 15.0 m², but the available area is 0 m²."
+MEETING ROOM 6P,,Level 10,0,Fail,"Required area for 6P in MEETING ROOM is 15.0 m², but the available area is 0 m²."
+MEETING ROOM 6P,,Level 10,0,Fail,"Required area for 6P in MEETING ROOM is 15.0 m², but the available area is 0 m²."
+FACILITY & STORRAGE,,Level 10,0,Fail,Required area not met
+TECHNIC DRY,,Level 10,0,Fail,Required area not met
+TECHNIC DRY,,Level 10,0,Fail,Required area not met
+CORRIDOR,,Level 11,0,Fail,Required area not met
+MEETING ROOM 6P,,Level 11,0,Fail,"Required area for 6P in MEETING ROOM is 15.0 m², but the available area is 0 m²."
+MEETING ROOM 6P,,Level 11,0,Fail,"Required area for 6P in MEETING ROOM is 15.0 m², but the available area is 0 m²."
+FACILITY & STORRAGE,,Level 11,0,Fail,Required area not met
+TECHNIC DRY,,Level 11,0,Fail,Required area not met
+TECHNIC DRY,,Level 11,0,Fail,Required area not met
+CORRIDOR,,Level 11,0,Fail,Required area not met
+MEETING ROOM 10P,,Level 11,0,Fail,"Required area for 10P in MEETING ROOM is 25.0 m², but the available area is 0 m²."
+STAIRCASE,,Level 5,35.040000000000376,Pass,Meets fixed area requirement (available: 35.040000000000376 m²)
+TECHNIC,,Level 5,12.239999999999872,Fail,Required area not met
+ELEVATOR,,Level 5,5.979999999999877,Fail,Required area not met
+ELEVATOR,,Level 5,4.599999999999976,Fail,Required area not met
+WARDROBE,,Level 5,6.5855374999998775,Fail,Required area not met
+STAIRCASE,,Level 5,35.04000000000032,Pass,Meets fixed area requirement (available: 35.04000000000032 m²)
+WARDROBE,,Level 5,6.471531249999995,Fail,Required area not met
+ELEVATOR,,Level 5,4.600000000000016,Fail,Required area not met
+TECHNIC,,Level 5,12.163499999999768,Fail,Required area not met
+CORRIDOR,,Level 5,0,Fail,Required area not met
+SHARED OFFICE 20P,,Level 5,0,Fail,"Required area for 20P in OFFICE is 160.0 m², but the available area is 0 m²."
+SHARED OFFICE 38P,,Level 5,0,Fail,"Required area for 38P in OFFICE is 304.0 m², but the available area is 0 m²."
+SHARED OFFICE 30P,,Level 5,0,Fail,"Required area for 30P in OFFICE is 240.0 m², but the available area is 0 m²."
+MEETING ROOM 10P,,Level 5,0,Fail,"Required area for 10P in MEETING ROOM is 25.0 m², but the available area is 0 m²."
+MEETING ROOM 6P,,Level 5,0,Fail,"Required area for 6P in MEETING ROOM is 15.0 m², but the available area is 0 m²."
+MEETING ROOM 15P,,Level 5,0,Fail,"Required area for 15P in MEETING ROOM is 37.5 m², but the available area is 0 m²."
+FACILITY,,Level 5,0,Fail,Required area not met
+TECHNIC DRY,,Level 5,0,Fail,Required area not met
+STAIRCASE,,Level 4,35.04000000000024,Pass,Meets fixed area requirement (available: 35.04000000000024 m²)
+WARDROBE,,Level 4,6.203531250000004,Fail,Required area not met
+ELEVATOR,,Level 4,4.600000000000007,Fail,Required area not met
+ELEVATOR,,Level 4,5.98000000000002,Fail,Required area not met
+TECHNIC,,Level 4,10.766249999999822,Fail,Required area not met
+SHARED OFFICE 20P,,Level 4,0,Fail,"Required area for 20P in OFFICE is 160.0 m², but the available area is 0 m²."
+MEETING ROOM 10P,,Level 4,39.13227749999967,Pass,Meets requirements (available: 39.13227749999967 m²)
+MEETING ROOM 6P,,Level 4,0,Fail,"Required area for 6P in MEETING ROOM is 15.0 m², but the available area is 0 m²."
+MEETING ROOM 15P,,Level 4,0,Fail,"Required area for 15P in MEETING ROOM is 37.5 m², but the available area is 0 m²."
+FACILITY,,Level 4,0,Fail,Required area not met
+TECHNIC DRY,,Level 4,0,Fail,Required area not met
+AUDITORIUM 1,,Level 2,0,Fail,"Required fixed area for AUDITORIUM is 100 m², but the available area is 0 m²."
+MEETING ROOM,,Level 2,0,Fail,Invalid format for number of people.
+MEETING ROOM,,Level 2,0,Fail,Invalid format for number of people.
+SEMINARROOM,,Level 2,0,Fail,Required area not met
+SEMINARROOM,,Level 2,0,Fail,Required area not met
+STAIRCASE,,Level 2,35.040000000000134,Pass,Meets fixed area requirement (available: 35.040000000000134 m²)
+TECHNIC,,Level 2,12.245999999999874,Fail,Required area not met
+TECHNIC,,Level 2,11.585999999999904,Fail,Required area not met
+SEMINARROOM,,Level 2,0,Fail,Required area not met
+SEMINARROOM,,Level 2,0,Fail,Required area not met
+SEMINARROOM,,Level 2,0,Fail,Required area not met
+STAIRCASE,,Level 3,35.03999999999941,Pass,Meets fixed area requirement (available: 35.03999999999941 m²)
+TECHNIC,,Level 3,10.917499999999963,Fail,Required area not met
+CORRIDOR,,Level 3,0,Fail,Required area not met
+STAIRCASE,,Level 3,35.04000000000064,Pass,Meets fixed area requirement (available: 35.04000000000064 m²)
+TECHNIC,,Level 3,10.1532750000001,Fail,Required area not met
+CORRIDOR,,Level 3,0,Fail,Required area not met
+ELEVATOR,,Level -3,4.600000000000041,Fail,Required area not met
+ELEVATOR,,Level -3,5.97999999999998,Fail,Required area not met
+STAIRSCASE,,Level -3,35.039999999999964,Fail,Required area not met
+ELEVATOR,,Level -3,4.600000000000077,Fail,Required area not met
+ELEVATOR,,Level -3,5.290000000000051,Fail,Required area not met
+STAIRCASE,,Level -3,35.040000000000205,Pass,Meets fixed area requirement (available: 35.040000000000205 m²)
+TECHNIC DRY,,Level 3,0,Fail,Required area not met
+TECHNIC DRY,,Level 3,0,Fail,Required area not met
+STORRAGE,,Level 3,0,Fail,Required area not met
+STAFF,,Level 3,0,Fail,Required area not met
+FACILITY,,Level 3,0,Fail,Required area not met
+FACILITY,,Level 3,0,Fail,Required area not met
+BUFFET,,Level 3,0,Fail,Required area not met
+COUNTER,,Level 3,7.719000000000341,Fail,Required area not met
+CAFE,,Level 3,17.30575000000033,Fail,Required area not met
+BALCONY,,Level 1,10.057756250000024,Fail,Required area not met
+BALCONY,,Level 4,10.357256250000562,Fail,Required area not met
+BALCONY,,Level 5,10.357256250000514,Fail,Required area not met
+BALCONY,,Level 8,10.357256250000306,Fail,Required area not met
+BALCONY,,Level 9,10.057756249999743,Fail,Required area not met
+ACCESSIBLE TOILET,,Level 8,4.4471250006126475,Fail,Required area not met
+TOILET,,Level 4,0,Fail,Required area not met
+TOILET,,Level 4,0,Fail,Required area not met
+ACCESSIBLE TOILET,,Level 4,0,Fail,Required area not met
+TOILET,,Level 5,0,Fail,Required area not met
+TOILET,,Level 5,0,Fail,Required area not met
+ACCESSIBLE TOILET,,Level 5,0,Fail,Required area not met
+TOILET,,Level 6,0,Fail,Required area not met
+TOILET,,Level 6,0,Fail,Required area not met
+ACCESSIBLE TOILET,,Level 6,0,Fail,Required area not met
+TOILET,,Level 7,0,Fail,Required area not met
+TOILET,,Level 7,0,Fail,Required area not met
+ACCESSIBLE TOILET,,Level 7,0,Fail,Required area not met
+TOILET,,Level 9,0,Fail,Required area not met
+TOILET,,Level 9,0,Fail,Required area not met
+ACCESSIBLE TOILET,,Level 9,0,Fail,Required area not met
+TOILET,,Level 10,0,Fail,Required area not met
+ACCESSIBLE TOILET,,Level 10,0,Fail,Required area not met
+TOILET,,Level 11,0,Fail,Required area not met
+TOILET,,Level 11,0,Fail,Required area not met
+ACCESSIBLE TOILET,,Level 11,0,Fail,Required area not met
+ACCESSIBLE TOILET,,Level 4,0,Fail,Required area not met
+ACCESSIBLE TOILET,,Level 5,0,Fail,Required area not met
+ACCESSIBLE TOILET,,Level 6,0,Fail,Required area not met
+ACCESSIBLE TOILET,,Level 7,0,Fail,Required area not met
+ACCESSIBLE TOILET,,Level 8,4.447124999387434,Fail,Required area not met
+ACCESSIBLE TOILET,,Level 9,0,Fail,Required area not met
+ACCESSIBLE TOILET,,Level 10,0,Fail,Required area not met
+ACCESSIBLE TOILET,,Level 11,0,Fail,Required area not met
+TOILET,,Level 3,0,Fail,Required area not met
+TOILET,,Level 3,0,Fail,Required area not met
+ACCESSIBLE TOILET,,Level 3,4.44712500000053,Fail,Required area not met
+ACCESSIBLE TOILET,,Level 3,4.2963750000004675,Fail,Required area not met
+ACCESSIBLE TOILET,,Level 2,0,Fail,Required area not met
+TOILET,,Level 2,15.77543750000043,Fail,Required area not met
+TOILET,,Level 1,16.499874999998994,Fail,Required area not met
+ACCESSIBLE TOILET,,Level 1,0,Fail,Required area not met
+TOILET,,Level 1,0,Fail,Required area not met
+ACCESSIBLE TOILET,,Level 1,0,Fail,Required area not met
+ACCESSIBLE TOILET,,Level 2,0,Fail,Required area not met
+ACCESSIBLE TOILET,,Level 0,0,Fail,Required area not met
+TECHNIC DRY,,Level 1,0,Fail,Required area not met
+TECHNIC DRY,,Level 1,0,Fail,Required area not met
+TECHNIC DRY,,Level 2,0,Fail,Required area not met
+TECHNIC DRY,,Level 2,0,Fail,Required area not met
+SERVICE STATION,,Level -1,0,Fail,Required area not met
+TECHNIC,,Level -3,0,Fail,Required area not met
+STAIRCASE,,Level 22,35.03999999999992,Pass,Meets fixed area requirement (available: 35.03999999999992 m²)
+TECHNIC,,Level 22,12.993749999999945,Fail,Required area not met
+ELEVATOR,,Level 22,5.980000000000017,Fail,Required area not met
+ELEVATOR,,Level 22,4.600000000000043,Fail,Required area not met
+STAIRCASE,,Level 22,35.039999999999694,Pass,Meets fixed area requirement (available: 35.039999999999694 m²)
+ELEVATOR,,Level 22,4.600000000000058,Fail,Required area not met
+ELEVATOR,,Level 22,5.979999999999897,Fail,Required area not met
+TECHNIC,,Level 22,11.999999999999934,Fail,Required area not met
+STAIRCASE,,Level 23,35.03999999999918,Pass,Meets fixed area requirement (available: 35.03999999999918 m²)
+WARDROBE,,Level 23,6.7266999999996955,Fail,Required area not met
+ELEVATOR,,Level 23,4.600000000000012,Fail,Required area not met
+ELEVATOR,,Level 23,5.979999999999748,Fail,Required area not met
+TECHNIC,,Level 23,12.887999999999428,Fail,Required area not met
+KITCHEN,,Level 23,0,Fail,Required area not met
+TECHNIC DRY,,Level 23,0,Fail,Required area not met
+KITCHEN,,Level 23,11.387293749999694,Fail,Required area not met
+WARDROBE,,Level 23,0,Fail,Required area not met
+FACILITY,,Level 23,5.545268750000153,Fail,Required area not met
+STORRAGE,,Level 23,0,Fail,Required area not met
+BAR,,Level 23,0,Fail,Required area not met
+INDOOR BAR,,Level 23,0,Fail,Required area not met
+ACCESSIBLE TOILET,,Level 23,0,Fail,Required area not met
+TOILET,,Level 23,0,Fail,Required area not met
+BAR,,Level 23,0,Fail,Required area not met
+STAIRCASE,,Level 24,35.03999999999962,Pass,Meets fixed area requirement (available: 35.03999999999962 m²)
+ELEVATOR,,Level 24,4.600000000000134,Fail,Required area not met
+ELEVATOR,,Level 24,5.980000000000154,Fail,Required area not met
+TECHNIC,,Level 24,11.040000000000465,Fail,Required area not met
+TERRACE/ ROOF GARDEN,,Level 24,0,Fail,Required area not met
+RECEPTION,,Level 0,0,Fail,Required area not met
+TECHNIC DRY,,Level 0,0,Fail,Required area not met
+TECHNIC DRY,,Level 0,0,Fail,Required area not met
+BAR,,Level 23,0,Fail,Required area not met
+TECHNIC,,Level 22,0,Fail,Required area not met
+PRINTING/BREAK,,Level 4,0,Fail,"Required fixed area for PRINTING is 3.0 m², but the available area is 0 m²."
+PRINTING/BREAK,,Level 5,0,Fail,"Required fixed area for PRINTING is 3.0 m², but the available area is 0 m²."
+PRINTING/BREAK,,Level 6,0,Fail,"Required fixed area for PRINTING is 3.0 m², but the available area is 0 m²."
+PRINTING/BREAK,,Level 6,0,Fail,"Required fixed area for PRINTING is 3.0 m², but the available area is 0 m²."
+PRINTING/BREAK,,Level 7,0,Fail,"Required fixed area for PRINTING is 3.0 m², but the available area is 0 m²."
+PRINTING/BREAK,,Level 7,0,Fail,"Required fixed area for PRINTING is 3.0 m², but the available area is 0 m²."
+PRINTING/BREAK,,Level 8,0,Fail,"Required fixed area for PRINTING is 3.0 m², but the available area is 0 m²."
+PRINTING/BREAK,,Level 8,0,Fail,"Required fixed area for PRINTING is 3.0 m², but the available area is 0 m²."
+PRINTING/BREAK,,Level 9,0,Fail,"Required fixed area for PRINTING is 3.0 m², but the available area is 0 m²."
+PRINTING/BREAK,,Level 9,0,Fail,"Required fixed area for PRINTING is 3.0 m², but the available area is 0 m²."
+PRINTING/BREAK,,Level 10,0,Fail,"Required fixed area for PRINTING is 3.0 m², but the available area is 0 m²."
+PRINTING/BREAK,,Level 10,0,Fail,"Required fixed area for PRINTING is 3.0 m², but the available area is 0 m²."
+PRINTING/BREAK,,Level 11,0,Fail,"Required fixed area for PRINTING is 3.0 m², but the available area is 0 m²."
+PRINTING/BREAK,,Level 11,0,Fail,"Required fixed area for PRINTING is 3.0 m², but the available area is 0 m²."
+TECHNIC,,Level -3,12.511499999999812,Fail,Required area not met
+TECHNIC,,Level -3,12.511500000000005,Fail,Required area not met
+STORRAGE,,Level -1,22.175212500000534,Fail,Required area not met
+TECHNIC DRY,,Level 8,0,Fail,Required area not met
+TECHNIC DRY,,Level -1,0,Fail,Required area not met
+TOILET,,Level -1,0,Fail,Required area not met
+WARDROBE/LOCKERS,,Level -1,0,Fail,Required area not met
+ELEVATOR,,Level -1,4.600000000000121,Fail,Required area not met
+ELEVATOR,,Level 0,4.600000000000068,Fail,Required area not met
+STORRAGE,,Level -1,33.59396250000079,Fail,Required area not met
+STAIRCASE,,Level 4,35.04000000000017,Pass,Meets fixed area requirement (available: 35.04000000000017 m²)
+ELEVATOR,,Level 4,5.97999999999996,Fail,Required area not met
+ELEVATOR,,Level 4,4.600000000000003,Fail,Required area not met
+WARDROBE,,Level 4,6.203531250000066,Fail,Required area not met
+PUBLIC AREA,,Level 4,0,Fail,Required area not met
+SHARED OFFICE 18P,,Level 4,0,Fail,"Required area for 18P in OFFICE is 144.0 m², but the available area is 0 m²."
+SHARED OFFICE 30P,,Level 4,0,Fail,"Required area for 30P in OFFICE is 240.0 m², but the available area is 0 m²."
+CORRIDOR,,Level 4,0,Fail,Required area not met
+TECHNIC DRY,,Level 4,0,Fail,Required area not met
+CORRIDOR,,Level 4,0,Fail,Required area not met
+TECHNIC,,Level 4,10.939500000000605,Fail,Required area not met
+SHARED OFFICE 38P,,Level 4,0,Fail,"Required area for 38P in OFFICE is 304.0 m², but the available area is 0 m²."
+PRINTING/BREAK,,Level 4,0,Fail,"Required fixed area for PRINTING is 3.0 m², but the available area is 0 m²."
+SHARED OFFICE 16P,,Level 5,0,Fail,"Required area for 16P in OFFICE is 128.0 m², but the available area is 0 m²."
+PUBLIC AREA,,Level 5,0,Fail,Required area not met
+KITCHEN,,Level 5,10.499999999999826,Fail,Required area not met
+CORRIDOR,,Level 5,0,Fail,Required area not met
+TECHNIC DRY,,Level 5,0,Fail,Required area not met
+PRINTING/BREAK,,Level 5,0,Fail,"Required fixed area for PRINTING is 3.0 m², but the available area is 0 m²."
+KITCHEN,,Level 4,8.500000000000245,Fail,Required area not met
+STAIRCASE,,Level 6,35.04000000000017,Pass,Meets fixed area requirement (available: 35.04000000000017 m²)
+ELEVATOR,,Level 6,4.600000000000058,Fail,Required area not met
+ELEVATOR,,Level 6,5.980000000000087,Fail,Required area not met
+ELEVATOR,,Level 7,4.599999999999905,Fail,Required area not met
+ELEVATOR,,Level 7,5.979999999999762,Fail,Required area not met
+SHARED OFFICE 15P,,Level 7,0,Fail,"Required area for 15P in OFFICE is 120.0 m², but the available area is 0 m²."
+ELEVATOR,,Level 8,4.600000000000055,Fail,Required area not met
+ELEVATOR,,Level 8,5.979999999999752,Fail,Required area not met
+SHARED OFFICE 30P,,Level 8,0,Fail,"Required area for 30P in OFFICE is 240.0 m², but the available area is 0 m²."
+ELEVATOR,,Level 9,4.600000000000196,Fail,Required area not met
+ELEVATOR,,Level 9,5.980000000000009,Fail,Required area not met
+SHARED OFFICE 30P,,Level 9,0,Fail,"Required area for 30P in OFFICE is 240.0 m², but the available area is 0 m²."
+PUBLIC AREA,,Level 11,0,Fail,Required area not met
+SHARED OFFICE 38P,,Level 11,0,Fail,"Required area for 38P in OFFICE is 304.0 m², but the available area is 0 m²."
+ELEVATOR,,Level 3,4.599999999999977,Fail,Required area not met
+ELEVATOR,,Level 3,5.979999999999864,Fail,Required area not met
+ELEVATOR,,Level 3,6.008750000000094,Fail,Required area not met
+ELEVATOR,,Level 3,4.571250000000097,Fail,Required area not met
+CANTEEN,,Level 3,0,Fail,Required area not met
+SEMINARROOM,,Level 1,0,Fail,Required area not met
+SEMINARROOM,,Level 2,0,Fail,Required area not met
+TOILET,,Level 2,16.58096874999969,Fail,Required area not met
+ELEVATOR,,Level 2,5.980000000000046,Fail,Required area not met
+ELEVATOR,,Level 2,4.600000000000066,Fail,Required area not met
+STAIRCASE,,Level 2,35.040000000000546,Pass,Meets fixed area requirement (available: 35.040000000000546 m²)
+ELEVATOR,,Level 2,4.600000000000012,Fail,Required area not met
+ELEVATOR,,Level 2,5.980000000000203,Fail,Required area not met
+STUDENT AREA,,Level 1,0,Fail,Invalid format for number of people.
+STAIRCASE,,Level 1,35.040000000000134,Pass,Meets fixed area requirement (available: 35.040000000000134 m²)
+ELEVATOR,,Level 1,4.600000000000019,Fail,Required area not met
+ELEVATOR,,Level 1,5.980000000000095,Fail,Required area not met
+ELEVATOR,,Level 0,4.615899268649446,Fail,Required area not met
+ENTRANCE AREA,,Level 0,0,Fail,Required area not met
+TOILET,,Level -1,3.772168749999908,Fail,Required area not met
+TECHNIC,,Level -1,0,Fail,Required area not met
+TECHNIC DRY,,Level -1,0,Fail,Required area not met
+WARDROBE/LOCKERS,,Level -1,0,Fail,Required area not met
+TOILET,,Level -1,0,Fail,Required area not met
+TOILET,,Level -1,3.7721687500002106,Fail,Required area not met
+BICYCLE BASEMENT,,Level -1,0,Fail,Required area not met
+ELEVATOR,,Level -2,0,Fail,Required area not met
+TECHNIC,,Level -2,11.106699999999963,Fail,Required area not met
+ELEVATOR,,Level -2,0,Fail,Required area not met
+STAIRCASE,,Level -2,35.03999999999983,Pass,Meets fixed area requirement (available: 35.03999999999983 m²)
+ELEVATOR,,Level -2,5.980000000000035,Fail,Required area not met
+STAIRCASE,,Level -2,35.04000000000018,Pass,Meets fixed area requirement (available: 35.04000000000018 m²)
+TECHNIC,,Level -2,12.511500000000002,Fail,Required area not met
+SERVICE STATION,,Level -2,0,Fail,Required area not met
+STORRAGE,,Level -2,22.175212500000516,Fail,Required area not met
+TECHNIC DRY,,Level -2,0,Fail,Required area not met
+TOILET,,Level -2,0,Fail,Required area not met
+WARDROBE/LOCKERS,,Level -2,0,Fail,Required area not met
+ELEVATOR,,Level -2,4.600000000000121,Fail,Required area not met
+TOILET,,Level -2,3.772168749999908,Fail,Required area not met
+TECHNIC,,Level -2,0,Fail,Required area not met
+TECHNIC DRY,,Level -2,0,Fail,Required area not met
+WARDROBE/LOCKERS,,Level -2,0,Fail,Required area not met
+TOILET,,Level -2,0,Fail,Required area not met
+TOILET,,Level -2,3.772168750000205,Fail,Required area not met
+BICYCLE BASEMENT,,Level -2,0,Fail,Required area not met
+STORAGE,,Level -2,15.607856250000628,Fail,Required area not met
+STORAGE,,Level -2,0,Fail,Required area not met
+STORRAGE,,Level 23,0,Fail,Required area not met
+TECHNIC DRY,,Level -3,0,Fail,Required area not met
+TECHNIC DRY,,Level -3,0,Fail,Required area not met
+TECHNIC DRY,,Level 22,0,Fail,Required area not met
+TECHNIC DRY,,Level 22,0,Fail,Required area not met
+MEETING ROOM 6P,,Level 11,0,Fail,"Required area for 6P in MEETING ROOM is 15.0 m², but the available area is 0 m²."
+FACILITY,,Level 6,0,Fail,Required area not met
+MEETING ROOM 3P,,Level 6,0,Fail,"Required area for 3P in MEETING ROOM is 7.5 m², but the available area is 0 m²."
+ELEVATOR,,Level 11,4.600000000000024,Fail,Required area not met
+ELEVATOR,,Level 5,5.98000000000003,Fail,Required area not met
+TECHNIC,,Level 0,11.877468749999975,Fail,Required area not met
+STAIRCASE,,Level 21,35.040000000000376,Pass,Meets fixed area requirement (available: 35.040000000000376 m²)
+TECHNIC,,Level 21,12.137999999999895,Fail,Required area not met
+ELEVATOR,,Level 21,5.979999999999877,Fail,Required area not met
+ELEVATOR,,Level 21,4.599999999999976,Fail,Required area not met
+WARDROBE,,Level 21,6.531887499999891,Fail,Required area not met
+STAIRCASE,,Level 21,35.04000000000032,Pass,Meets fixed area requirement (available: 35.04000000000032 m²)
+WARDROBE,,Level 21,6.471531249999995,Fail,Required area not met
+ELEVATOR,,Level 21,4.600000000000016,Fail,Required area not met
+TECHNIC,,Level 21,12.163499999999768,Fail,Required area not met
+CORRIDOR,,Level 21,0,Fail,Required area not met
+SHARED OFFICE 20P,,Level 21,0,Fail,"Required area for 20P in OFFICE is 160.0 m², but the available area is 0 m²."
+SHARED OFFICE 38P,,Level 21,0,Fail,"Required area for 38P in OFFICE is 304.0 m², but the available area is 0 m²."
+SHARED OFFICE 30P,,Level 21,0,Fail,"Required area for 30P in OFFICE is 240.0 m², but the available area is 0 m²."
+MEETING ROOM 10P,,Level 21,0,Fail,"Required area for 10P in MEETING ROOM is 25.0 m², but the available area is 0 m²."
+MEETING ROOM 6P,,Level 21,0,Fail,"Required area for 6P in MEETING ROOM is 15.0 m², but the available area is 0 m²."
+MEETING ROOM 15P,,Level 21,0,Fail,"Required area for 15P in MEETING ROOM is 37.5 m², but the available area is 0 m²."
+FACILITY,,Level 21,0,Fail,Required area not met
+TECHNIC DRY,,Level 21,0,Fail,Required area not met
+BALCONY,,Level 21,10.357256250000514,Fail,Required area not met
+TOILET,,Level 21,0,Fail,Required area not met
+TOILET,,Level 21,0,Fail,Required area not met
+ACCESSIBLE TOILET,,Level 21,0,Fail,Required area not met
+ACCESSIBLE TOILET,,Level 21,0,Fail,Required area not met
+PRINTING/BREAK,,Level 21,0,Fail,"Required fixed area for PRINTING is 3.0 m², but the available area is 0 m²."
+SHARED OFFICE 16P,,Level 21,0,Fail,"Required area for 16P in OFFICE is 128.0 m², but the available area is 0 m²."
+PUBLIC AREA,,Level 21,0,Fail,Required area not met
+KITCHEN,,Level 21,10.499999999999826,Fail,Required area not met
+CORRIDOR,,Level 21,0,Fail,Required area not met
+TECHNIC DRY,,Level 21,0,Fail,Required area not met
+PRINTING/BREAK,,Level 21,0,Fail,"Required fixed area for PRINTING is 3.0 m², but the available area is 0 m²."
+ELEVATOR,,Level 21,5.98000000000003,Fail,Required area not met
+STAIRCASE,,Level 13,35.040000000000376,Pass,Meets fixed area requirement (available: 35.040000000000376 m²)
+TECHNIC,,Level 13,12.023250000000099,Fail,Required area not met
+ELEVATOR,,Level 13,5.979999999999877,Fail,Required area not met
+ELEVATOR,,Level 13,4.599999999999976,Fail,Required area not met
+WARDROBE,,Level 13,6.471531249999999,Fail,Required area not met
+STAIRCASE,,Level 13,35.04000000000032,Pass,Meets fixed area requirement (available: 35.04000000000032 m²)
+WARDROBE,,Level 13,6.471531249999995,Fail,Required area not met
+ELEVATOR,,Level 13,4.600000000000016,Fail,Required area not met
+TECHNIC,,Level 13,12.163499999999768,Fail,Required area not met
+CORRIDOR,,Level 13,0,Fail,Required area not met
+SHARED OFFICE 20P,,Level 13,0,Fail,"Required area for 20P in OFFICE is 160.0 m², but the available area is 0 m²."
+SHARED OFFICE 38P,,Level 13,0,Fail,"Required area for 38P in OFFICE is 304.0 m², but the available area is 0 m²."
+SHARED OFFICE 30P,,Level 13,0,Fail,"Required area for 30P in OFFICE is 240.0 m², but the available area is 0 m²."
+MEETING ROOM 10P,,Level 13,0,Fail,"Required area for 10P in MEETING ROOM is 25.0 m², but the available area is 0 m²."
+MEETING ROOM 6P,,Level 13,0,Fail,"Required area for 6P in MEETING ROOM is 15.0 m², but the available area is 0 m²."
+MEETING ROOM 15P,,Level 13,0,Fail,"Required area for 15P in MEETING ROOM is 37.5 m², but the available area is 0 m²."
+FACILITY,,Level 13,0,Fail,Required area not met
+TECHNIC DRY,,Level 13,0,Fail,Required area not met
+BALCONY,,Level 13,10.357256250000514,Fail,Required area not met
+TOILET,,Level 13,0,Fail,Required area not met
+TOILET,,Level 13,0,Fail,Required area not met
+ACCESSIBLE TOILET,,Level 13,0,Fail,Required area not met
+ACCESSIBLE TOILET,,Level 13,0,Fail,Required area not met
+PRINTING/BREAK,,Level 13,0,Fail,"Required fixed area for PRINTING is 3.0 m², but the available area is 0 m²."
+SHARED OFFICE 16P,,Level 13,0,Fail,"Required area for 16P in OFFICE is 128.0 m², but the available area is 0 m²."
+PUBLIC AREA,,Level 13,0,Fail,Required area not met
+KITCHEN,,Level 13,10.499999999999826,Fail,Required area not met
+CORRIDOR,,Level 13,0,Fail,Required area not met
+TECHNIC DRY,,Level 13,0,Fail,Required area not met
+PRINTING/BREAK,,Level 13,0,Fail,"Required fixed area for PRINTING is 3.0 m², but the available area is 0 m²."
+ELEVATOR,,Level 13,5.98000000000003,Fail,Required area not met
+STAIRCASE,,Level 12,35.04000000000024,Pass,Meets fixed area requirement (available: 35.04000000000024 m²)
+WARDROBE,,Level 12,6.203531250000004,Fail,Required area not met
+ELEVATOR,,Level 12,4.600000000000007,Fail,Required area not met
+ELEVATOR,,Level 12,5.98000000000002,Fail,Required area not met
+TECHNIC,,Level 12,10.766249999999822,Fail,Required area not met
+SHARED OFFICE 20P,,Level 12,0,Fail,"Required area for 20P in OFFICE is 160.0 m², but the available area is 0 m²."
+MEETING ROOM 10P,,Level 12,39.13227749999965,Pass,Meets requirements (available: 39.13227749999965 m²)
+MEETING ROOM 6P,,Level 12,0,Fail,"Required area for 6P in MEETING ROOM is 15.0 m², but the available area is 0 m²."
+MEETING ROOM 15P,,Level 12,0,Fail,"Required area for 15P in MEETING ROOM is 37.5 m², but the available area is 0 m²."
+FACILITY,,Level 12,0,Fail,Required area not met
+TECHNIC DRY,,Level 12,0,Fail,Required area not met
+BALCONY,,Level 12,10.357256250000562,Fail,Required area not met
+TOILET,,Level 12,0,Fail,Required area not met
+TOILET,,Level 12,0,Fail,Required area not met
+ACCESSIBLE TOILET,,Level 12,0,Fail,Required area not met
+ACCESSIBLE TOILET,,Level 12,0,Fail,Required area not met
+PRINTING/BREAK,,Level 12,0,Fail,"Required fixed area for PRINTING is 3.0 m², but the available area is 0 m²."
+STAIRCASE,,Level 12,35.04000000000017,Pass,Meets fixed area requirement (available: 35.04000000000017 m²)
+ELEVATOR,,Level 12,5.9799999999999445,Fail,Required area not met
+ELEVATOR,,Level 12,4.600000000000007,Fail,Required area not met
+WARDROBE,,Level 12,6.203531250000066,Fail,Required area not met
+PUBLIC AREA,,Level 12,0,Fail,Required area not met
+SHARED OFFICE 18P,,Level 12,0,Fail,"Required area for 18P in OFFICE is 144.0 m², but the available area is 0 m²."
+SHARED OFFICE 30P,,Level 12,0,Fail,"Required area for 30P in OFFICE is 240.0 m², but the available area is 0 m²."
+CORRIDOR,,Level 12,0,Fail,Required area not met
+TECHNIC DRY,,Level 12,0,Fail,Required area not met
+CORRIDOR,,Level 12,0,Fail,Required area not met
+TECHNIC,,Level 12,10.939500000000605,Fail,Required area not met
+SHARED OFFICE 38P,,Level 12,0,Fail,"Required area for 38P in OFFICE is 304.0 m², but the available area is 0 m²."
+PRINTING/BREAK,,Level 12,0,Fail,"Required fixed area for PRINTING is 3.0 m², but the available area is 0 m²."
+KITCHEN,,Level 12,8.500000000000245,Fail,Required area not met
+STAIRCASE,,Level 20,35.04000000000024,Pass,Meets fixed area requirement (available: 35.04000000000024 m²)
+WARDROBE,,Level 20,6.203531250000004,Fail,Required area not met
+ELEVATOR,,Level 20,4.600000000000007,Fail,Required area not met
+ELEVATOR,,Level 20,5.98000000000002,Fail,Required area not met
+TECHNIC,,Level 20,10.766249999999822,Fail,Required area not met
+SHARED OFFICE 20P,,Level 20,0,Fail,"Required area for 20P in OFFICE is 160.0 m², but the available area is 0 m²."
+MEETING ROOM 10P,,Level 20,39.13227749999965,Pass,Meets requirements (available: 39.13227749999965 m²)
+MEETING ROOM 6P,,Level 20,0,Fail,"Required area for 6P in MEETING ROOM is 15.0 m², but the available area is 0 m²."
+MEETING ROOM 15P,,Level 20,0,Fail,"Required area for 15P in MEETING ROOM is 37.5 m², but the available area is 0 m²."
+FACILITY,,Level 20,0,Fail,Required area not met
+TECHNIC DRY,,Level 20,0,Fail,Required area not met
+BALCONY,,Level 20,10.357256250000562,Fail,Required area not met
+TOILET,,Level 20,0,Fail,Required area not met
+TOILET,,Level 20,0,Fail,Required area not met
+ACCESSIBLE TOILET,,Level 20,0,Fail,Required area not met
+ACCESSIBLE TOILET,,Level 20,0,Fail,Required area not met
+PRINTING/BREAK,,Level 20,0,Fail,"Required fixed area for PRINTING is 3.0 m², but the available area is 0 m²."
+STAIRCASE,,Level 20,35.04000000000017,Pass,Meets fixed area requirement (available: 35.04000000000017 m²)
+ELEVATOR,,Level 20,5.9799999999999445,Fail,Required area not met
+ELEVATOR,,Level 20,4.600000000000007,Fail,Required area not met
+WARDROBE,,Level 20,6.203531250000066,Fail,Required area not met
+PUBLIC AREA,,Level 20,0,Fail,Required area not met
+SHARED OFFICE 18P,,Level 20,0,Fail,"Required area for 18P in OFFICE is 144.0 m², but the available area is 0 m²."
+SHARED OFFICE 30P,,Level 20,0,Fail,"Required area for 30P in OFFICE is 240.0 m², but the available area is 0 m²."
+CORRIDOR,,Level 20,0,Fail,Required area not met
+TECHNIC DRY,,Level 20,0,Fail,Required area not met
+CORRIDOR,,Level 20,0,Fail,Required area not met
+TECHNIC,,Level 20,10.939500000000605,Fail,Required area not met
+SHARED OFFICE 38P,,Level 20,0,Fail,"Required area for 38P in OFFICE is 304.0 m², but the available area is 0 m²."
+PRINTING/BREAK,,Level 20,0,Fail,"Required fixed area for PRINTING is 3.0 m², but the available area is 0 m²."
+KITCHEN,,Level 20,8.500000000000245,Fail,Required area not met
+SHARED OFFICE 38P,,Level 14,0,Fail,"Required area for 38P in OFFICE is 304.0 m², but the available area is 0 m²."
+CORRIDOR,,Level 14,0,Fail,Required area not met
+STAIRCASE,,Level 14,35.04000000000026,Pass,Meets fixed area requirement (available: 35.04000000000026 m²)
+TECHNIC,,Level 14,12.199274999999792,Fail,Required area not met
+ELEVATOR,,Level 14,5.9799999999999285,Fail,Required area not met
+ELEVATOR,,Level 14,4.600000000000001,Fail,Required area not met
+WARDROBE,,Level 14,6.471531249999777,Fail,Required area not met
+PUBLIC AREA,,Level 14,0,Fail,Required area not met
+SHARED OFFICE 20P,,Level 14,0,Fail,"Required area for 20P in OFFICE is 160.0 m², but the available area is 0 m²."
+CORRIDOR,,Level 14,0,Fail,Required area not met
+SHARED OFFICE 32P,,Level 14,0,Fail,"Required area for 32P in OFFICE is 256.0 m², but the available area is 0 m²."
+WARDROBE,,Level 14,6.471531249999876,Fail,Required area not met
+MEETING ROOM 25P,,Level 14,0,Fail,"Required area for 25P in MEETING ROOM is 62.5 m², but the available area is 0 m²."
+TECHNIC,,Level 14,12.199274999999723,Fail,Required area not met
+KITCHEN,,Level 14,10.425000000000024,Fail,Required area not met
+SHARED OFFICE 15P,,Level 14,0,Fail,"Required area for 15P in OFFICE is 120.0 m², but the available area is 0 m²."
+TECHNIC DRY,,Level 14,0,Fail,Required area not met
+TECHNIC DRY,,Level 14,0,Fail,Required area not met
+TOILET,,Level 14,0,Fail,Required area not met
+TOILET,,Level 14,0,Fail,Required area not met
+ACCESSIBLE TOILET,,Level 14,0,Fail,Required area not met
+ACCESSIBLE TOILET,,Level 14,0,Fail,Required area not met
+PRINTING/BREAK,,Level 14,0,Fail,"Required fixed area for PRINTING is 3.0 m², but the available area is 0 m²."
+PRINTING/BREAK,,Level 14,0,Fail,"Required fixed area for PRINTING is 3.0 m², but the available area is 0 m²."
+STAIRCASE,,Level 14,35.04000000000017,Pass,Meets fixed area requirement (available: 35.04000000000017 m²)
+ELEVATOR,,Level 14,4.600000000000058,Fail,Required area not met
+ELEVATOR,,Level 14,5.980000000000087,Fail,Required area not met
+FACILITY,,Level 14,0,Fail,Required area not met
+MEETING ROOM 3P,,Level 14,0,Fail,"Required area for 3P in MEETING ROOM is 7.5 m², but the available area is 0 m²."
+SHARED OFFICE 38P,,Level 15,0,Fail,"Required area for 38P in OFFICE is 304.0 m², but the available area is 0 m²."
+CORRIDOR,,Level 15,0,Fail,Required area not met
+STAIRCASE,,Level 15,35.04000000000037,Pass,Meets fixed area requirement (available: 35.04000000000037 m²)
+TECHNIC,,Level 15,0,Fail,Required area not met
+ELEVATOR,,Level 15,5.979999999999999,Fail,Required area not met
+ELEVATOR,,Level 15,4.600000000000037,Fail,Required area not met
+WARDROBE,,Level 15,4.459345920000007,Fail,Required area not met
+PUBLIC AREA,,Level 15,4.4593459200000005,Fail,Required area not met
+SHARED OFFICE 20P,,Level 15,0,Fail,"Required area for 20P in OFFICE is 160.0 m², but the available area is 0 m²."
+CORRIDOR,,Level 15,0,Fail,Required area not met
+SHARED OFFICE 38P,,Level 15,0,Fail,"Required area for 38P in OFFICE is 304.0 m², but the available area is 0 m²."
+STAIRCASE,,Level 15,35.03999999999952,Pass,Meets fixed area requirement (available: 35.03999999999952 m²)
+WARDROBE,,Level 15,6.471531249999972,Fail,Required area not met
+MEETING ROOM 10P,,Level 15,0,Fail,"Required area for 10P in MEETING ROOM is 25.0 m², but the available area is 0 m²."
+TECHNIC,,Level 15,12.163499999999747,Fail,Required area not met
+MEETING ROOM 15P,,Level 15,0,Fail,"Required area for 15P in MEETING ROOM is 37.5 m², but the available area is 0 m²."
+MEETING ROOM 6P,,Level 15,0,Fail,"Required area for 6P in MEETING ROOM is 15.0 m², but the available area is 0 m²."
+FACILITY & STORRAGE,,Level 15,0,Fail,Required area not met
+TECHNIC DRY,,Level 15,0,Fail,Required area not met
+TECHNIC DRY,,Level 15,0,Fail,Required area not met
+KITCHEN,,Level 15,0,Fail,Required area not met
+TOILET,,Level 15,0,Fail,Required area not met
+TOILET,,Level 15,0,Fail,Required area not met
+ACCESSIBLE TOILET,,Level 15,0,Fail,Required area not met
+ACCESSIBLE TOILET,,Level 15,0,Fail,Required area not met
+PRINTING/BREAK,,Level 15,4.459345920000002,Pass,Meets fixed area requirement (available: 4.459345920000002 m²)
+PRINTING/BREAK,,Level 15,0,Fail,"Required fixed area for PRINTING is 3.0 m², but the available area is 0 m²."
+ELEVATOR,,Level 15,4.599999999999905,Fail,Required area not met
+ELEVATOR,,Level 15,5.979999999999762,Fail,Required area not met
+SHARED OFFICE 15P,,Level 15,0,Fail,"Required area for 15P in OFFICE is 120.0 m², but the available area is 0 m²."
+SHARED OFFICE 18P,,Level 16,0,Fail,"Required area for 18P in OFFICE is 144.0 m², but the available area is 0 m²."
+CORRIDOR,,Level 16,0,Fail,Required area not met
+STAIRCASE,,Level 16,0,Fail,"Required fixed area for STAIRCASE is 34.0 m², but the available area is 0 m²."
+TECHNIC,,Level 16,12.18734999999965,Fail,Required area not met
+ELEVATOR,,Level 16,5.979999999999978,Fail,Required area not met
+ELEVATOR,,Level 16,0,Fail,Required area not met
+WARDROBE,,Level 16,6.495656249999712,Fail,Required area not met
+PUBLIC AREA,,Level 16,0,Fail,Required area not met
+SHARED OFFICE 20P,,Level 16,0,Fail,"Required area for 20P in OFFICE is 160.0 m², but the available area is 0 m²."
+CORRIDOR,,Level 16,0,Fail,Required area not met
+SHARED OFFICE 38P,,Level 16,0,Fail,"Required area for 38P in OFFICE is 304.0 m², but the available area is 0 m²."
+STAIRCASE,,Level 16,35.04000000000003,Pass,Meets fixed area requirement (available: 35.04000000000003 m²)
+WARDROBE,,Level 16,6.498356250000006,Fail,Required area not met
+MEETING ROOM 10P,,Level 16,0,Fail,"Required area for 10P in MEETING ROOM is 25.0 m², but the available area is 0 m²."
+TOILET,,Level 16,0,Fail,Required area not met
+TOILET,,Level 16,0,Fail,Required area not met
+TECHNIC,,Level 16,12.23844999999981,Fail,Required area not met
+KITCHEN,,Level 16,0,Fail,Required area not met
+MEETING ROOM 6P,,Level 16,0,Fail,"Required area for 6P in MEETING ROOM is 15.0 m², but the available area is 0 m²."
+MEETING ROOM 15P,,Level 16,0,Fail,"Required area for 15P in MEETING ROOM is 37.5 m², but the available area is 0 m²."
+FACILITY & STORRAGE,,Level 16,0,Fail,Required area not met
+TECHNIC DRY,,Level 16,0,Fail,Required area not met
+BALCONY,,Level 16,10.357256250000306,Fail,Required area not met
+ACCESSIBLE TOILET,,Level 16,4.4471250006126475,Fail,Required area not met
+ACCESSIBLE TOILET,,Level 16,4.447124999387434,Fail,Required area not met
+PRINTING/BREAK,,Level 16,0,Fail,"Required fixed area for PRINTING is 3.0 m², but the available area is 0 m²."
+PRINTING/BREAK,,Level 16,0,Fail,"Required fixed area for PRINTING is 3.0 m², but the available area is 0 m²."
+TECHNIC DRY,,Level 16,0,Fail,Required area not met
+ELEVATOR,,Level 16,4.600000000000055,Fail,Required area not met
+ELEVATOR,,Level 16,5.979999999999752,Fail,Required area not met
+SHARED OFFICE 30P,,Level 16,0,Fail,"Required area for 30P in OFFICE is 240.0 m², but the available area is 0 m²."
+PUBLIC AREA,,Level 17,0,Fail,Required area not met
+CORRIDOR,,Level 17,0,Fail,Required area not met
+STAIRCASE,,Level 17,35.0400000000003,Pass,Meets fixed area requirement (available: 35.0400000000003 m²)
+TECHNIC,,Level 17,12.163499999999758,Fail,Required area not met
+ELEVATOR,,Level 17,5.979999999999978,Fail,Required area not met
+ELEVATOR,,Level 17,4.600000000000037,Fail,Required area not met
+WARDROBE,,Level 17,6.471531249999787,Fail,Required area not met
+SHARED OFFICE 16P,,Level 17,0,Fail,"Required area for 16P in OFFICE is 128.0 m², but the available area is 0 m²."
+SHARED OFFICE 20P,,Level 17,0,Fail,"Required area for 20P in OFFICE is 160.0 m², but the available area is 0 m²."
+CORRIDOR,,Level 17,0,Fail,Required area not met
+SHARED OFFICE 38P,,Level 17,0,Fail,"Required area for 38P in OFFICE is 304.0 m², but the available area is 0 m²."
+STAIRCASE,,Level 17,35.04000000000078,Pass,Meets fixed area requirement (available: 35.04000000000078 m²)
+WARDROBE,,Level 17,6.471531249999925,Fail,Required area not met
+MEETING ROOM 10P,,Level 17,0,Fail,"Required area for 10P in MEETING ROOM is 25.0 m², but the available area is 0 m²."
+TECHNIC,,Level 17,12.187349999999684,Fail,Required area not met
+MEETING ROOM 6P,,Level 17,0,Fail,"Required area for 6P in MEETING ROOM is 15.0 m², but the available area is 0 m²."
+MEETING ROOM 15P,,Level 17,0,Fail,"Required area for 15P in MEETING ROOM is 37.5 m², but the available area is 0 m²."
+FACILITY & STORRAGE,,Level 17,0,Fail,Required area not met
+KITCHEN,,Level 17,10.500000000000085,Fail,Required area not met
+TECHNIC DRY,,Level 17,0,Fail,Required area not met
+TECHNIC DRY,,Level 17,0,Fail,Required area not met
+BALCONY,,Level 17,10.057756249999743,Fail,Required area not met
+TOILET,,Level 17,0,Fail,Required area not met
+TOILET,,Level 17,0,Fail,Required area not met
+ACCESSIBLE TOILET,,Level 17,0,Fail,Required area not met
+ACCESSIBLE TOILET,,Level 17,0,Fail,Required area not met
+PRINTING/BREAK,,Level 17,0,Fail,"Required fixed area for PRINTING is 3.0 m², but the available area is 0 m²."
+PRINTING/BREAK,,Level 17,0,Fail,"Required fixed area for PRINTING is 3.0 m², but the available area is 0 m²."
+ELEVATOR,,Level 17,4.600000000000196,Fail,Required area not met
+ELEVATOR,,Level 17,5.980000000000009,Fail,Required area not met
+SHARED OFFICE 30P,,Level 17,0,Fail,"Required area for 30P in OFFICE is 240.0 m², but the available area is 0 m²."
+STAIRCASE,,Level 18,35.04000000000013,Pass,Meets fixed area requirement (available: 35.04000000000013 m²)
+TECHNIC,,Level 18,12.666499999999933,Fail,Required area not met
+ELEVATOR,,Level 18,5.98000000000002,Fail,Required area not met
+ELEVATOR,,Level 18,4.60000000000003,Fail,Required area not met
+WARDROBE,,Level 18,6.5116562499998,Fail,Required area not met
+STAIRCASE,,Level 18,0,Fail,"Required fixed area for STAIRCASE is 34.0 m², but the available area is 0 m²."
+WARDROBE,,Level 18,5.529768750000141,Fail,Required area not met
+ELEVATOR,,Level 18,0,Fail,Required area not met
+ELEVATOR,,Level 18,5.979999999999853,Fail,Required area not met
+TECHNIC,,Level 18,11.563999999999895,Fail,Required area not met
+SHARED OFFICE 38P,,Level 18,0,Fail,"Required area for 38P in OFFICE is 304.0 m², but the available area is 0 m²."
+PUBLIC AREA,,Level 18,0,Fail,Required area not met
+SHARED OFFICE 20P,,Level 18,0,Fail,"Required area for 20P in OFFICE is 160.0 m², but the available area is 0 m²."
+SHARED OFFICE 32P,,Level 18,0,Fail,"Required area for 32P in OFFICE is 256.0 m², but the available area is 0 m²."
+KITCHEN,,Level 18,0,Fail,Required area not met
+SHARED OFFICE 15P,,Level 18,0,Fail,"Required area for 15P in OFFICE is 120.0 m², but the available area is 0 m²."
+CORRIDOR,,Level 18,0,Fail,Required area not met
+CORRIDOR,,Level 18,0,Fail,Required area not met
+MEETING ROOM 10P,,Level 18,0,Fail,"Required area for 10P in MEETING ROOM is 25.0 m², but the available area is 0 m²."
+TOILET,,Level 18,0,Fail,Required area not met
+MEETING ROOM 6P,,Level 18,0,Fail,"Required area for 6P in MEETING ROOM is 15.0 m², but the available area is 0 m²."
+MEETING ROOM 6P,,Level 18,0,Fail,"Required area for 6P in MEETING ROOM is 15.0 m², but the available area is 0 m²."
+MEETING ROOM 6P,,Level 18,0,Fail,"Required area for 6P in MEETING ROOM is 15.0 m², but the available area is 0 m²."
+FACILITY & STORRAGE,,Level 18,0,Fail,Required area not met
+TECHNIC DRY,,Level 18,0,Fail,Required area not met
+TECHNIC DRY,,Level 18,0,Fail,Required area not met
+TOILET,,Level 18,0,Fail,Required area not met
+ACCESSIBLE TOILET,,Level 18,0,Fail,Required area not met
+ACCESSIBLE TOILET,,Level 18,0,Fail,Required area not met
+PRINTING/BREAK,,Level 18,0,Fail,"Required fixed area for PRINTING is 3.0 m², but the available area is 0 m²."
+PRINTING/BREAK,,Level 18,0,Fail,"Required fixed area for PRINTING is 3.0 m², but the available area is 0 m²."
+STAIRCASE,,Level 19,35.04000000000024,Pass,Meets fixed area requirement (available: 35.04000000000024 m²)
+TECHNIC,,Level 19,12.53174999999992,Fail,Required area not met
+ELEVATOR,,Level 19,5.97999999999999,Fail,Required area not met
+WARDROBE,,Level 19,6.485531249999903,Fail,Required area not met
+STAIRCASE,,Level 19,35.04000000000024,Pass,Meets fixed area requirement (available: 35.04000000000024 m²)
+WARDROBE,,Level 19,6.485531249999962,Fail,Required area not met
+ELEVATOR,,Level 19,4.600000000000007,Fail,Required area not met
+TECHNIC,,Level 19,12.53174999999977,Fail,Required area not met
+SHARED OFFICE 20P,,Level 19,0,Fail,"Required area for 20P in OFFICE is 160.0 m², but the available area is 0 m²."
+SHARED OFFICE 38P,,Level 19,0,Fail,"Required area for 38P in OFFICE is 304.0 m², but the available area is 0 m²."
+SHARED OFFICE 15P,,Level 19,0,Fail,"Required area for 15P in OFFICE is 120.0 m², but the available area is 0 m²."
+KITCHEN,,Level 19,10.424999999999544,Fail,Required area not met
+CORRIDOR,,Level 19,0,Fail,Required area not met
+MEETING ROOM 6P,,Level 19,0,Fail,"Required area for 6P in MEETING ROOM is 15.0 m², but the available area is 0 m²."
+MEETING ROOM 6P,,Level 19,0,Fail,"Required area for 6P in MEETING ROOM is 15.0 m², but the available area is 0 m²."
+FACILITY & STORRAGE,,Level 19,0,Fail,Required area not met
+TECHNIC DRY,,Level 19,0,Fail,Required area not met
+TECHNIC DRY,,Level 19,0,Fail,Required area not met
+CORRIDOR,,Level 19,0,Fail,Required area not met
+MEETING ROOM 10P,,Level 19,0,Fail,"Required area for 10P in MEETING ROOM is 25.0 m², but the available area is 0 m²."
+TOILET,,Level 19,0,Fail,Required area not met
+TOILET,,Level 19,0,Fail,Required area not met
+ACCESSIBLE TOILET,,Level 19,0,Fail,Required area not met
+ACCESSIBLE TOILET,,Level 19,0,Fail,Required area not met
+PRINTING/BREAK,,Level 19,0,Fail,"Required fixed area for PRINTING is 3.0 m², but the available area is 0 m²."
+PRINTING/BREAK,,Level 19,0,Fail,"Required fixed area for PRINTING is 3.0 m², but the available area is 0 m²."
+PUBLIC AREA,,Level 19,0,Fail,Required area not met
+SHARED OFFICE 38P,,Level 19,0,Fail,"Required area for 38P in OFFICE is 304.0 m², but the available area is 0 m²."
+MEETING ROOM 6P,,Level 19,0,Fail,"Required area for 6P in MEETING ROOM is 15.0 m², but the available area is 0 m²."
+ELEVATOR,,Level 19,4.600000000000024,Fail,Required area not met
+KITCHEN,,Level 3,0,Fail,Required area not met
+ROOF / TECHNIC,,Level 23,0,Fail,Required area not met
+OUTDOOR BAR,,Level 23,0,Fail,Required area not met
+STORRAGE,,Level 0,37.56225000000083,Fail,Required area not met
