@@ -1,4 +1,5 @@
-## FEEDBACK FOR OUR TOOL: PEER REVIEW FOR GROUP 8
+## FEEDBACK FOR OUR TOOL: 
+## PEER REVIEW FOR GROUP 8
 ## SUMMARY:
 The project generally received positive feedback. The aim of the project was to optimize office area use, a crucial task in large construction and building projects. By optimizing the square meter price per office worker, costs can be reduced while maintaining productivity and comfort. However, a key challenge is gathering accurate data on floor areas, especially for office spaces. In an ideal world, this information would be easily accessible and standardized, simplifying the optimization process. It also focuses on addressing space management and organization, with the main difficulty being determining accurate floor area, slab types, and the number of slabs. Identifying furniture and extracting floor information, especially when calculating space usage floor by floor, has proven difficult. Due to those problems, the tool had to be changed to some extent, and the new version is focusing mainly on checking the workspace requirements. During the project development, BIMVision has been explored as a more effective tool than Blender.
 
