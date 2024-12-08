@@ -7,7 +7,7 @@ The project generally received positive feedback. The aim of the project was to 
 At the beginning of the course, I did not really know much about IFC and OpenBIM, and now at the end of the course, I think I am probably a Level 2 Analyst.
 ## What else do you still need to learn?
 Since OpenBIM has many capabilities and applications in the industry and it is a new concept for me I have a lot of things that I still need to learn and process. For now, I would like to work a little more with OpenBIM in order to enhance my level of knowledge into a Level 3 Analyst.
-## how you might use OpenBIM in the future?
+## How you might use OpenBIM in the future?
 I think I will use it in my professional life and probably my thesis. More specifically, it seems like there is a trend moving towards open-source tools and OpenBIM can provide and improve information exchange between all the different parties of a project, leading to building better buildings and reduction of costs and human errors. Additionally, I believe that because it makes processes more effective and automatic, it is an asset that can advantageously be incorporated into a master's thesis.
 ## Did the process of the course enable you to answer or define questions that you might need later for thesis?
 The process of the course has supported the progress in future BIM-related work when the case is to work with BIM models in general. Seems like OpenBIM and Python have many options that can be useful to make a program run automatically instead of doing many things manually. Although the project made  an interesting basis, it was also quite difficult. However, due to our limited time with this course, it is unlikely that it will enable us to answer or define questions that would be used for our thesis.
